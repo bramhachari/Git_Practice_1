@@ -4,6 +4,6 @@ public class Test{
 
 		system.out.println("Hello World");
 
-		system.out.println("Hi welcome to branching strategy");
+		system.out.println("title changed to wallpapers");
 	}
 }	
